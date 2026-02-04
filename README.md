@@ -2,6 +2,7 @@
 
 > [!IMPORTANT]
 > This system is currently **UNDER PRODUCTION**.
+> Added proper error handling.
 
 A robust desktop application for managing appointments, developed using Python and Tkinter.
 
